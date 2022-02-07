@@ -32,7 +32,7 @@ export default function Login(props) {
                 <input type='password' name='password' placeholder='Password' className='form-control'></input>
             </fieldset>
             
-            <input type='submit' value='Login' />
+            <input type='submit' value='login' />
         </form>
   );
 }
